@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338827658430",
+    "firebase_url": "https://takeandleave-b7735.firebaseio.com",
+    "project_id": "takeandleave-b7735",
+    "storage_bucket": "takeandleave-b7735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338827658430:android:de2b62fdf260882eb90aef",
+        "android_client_info": {
+          "package_name": "com.raywenderlich.pet_medical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338827658430-lq3janhb7kcla44t5u8ukb2r27siehkg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT4b6STqn-1pnz6FvSmRsvAUPfWG0bfb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338827658430-lq3janhb7kcla44t5u8ukb2r27siehkg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

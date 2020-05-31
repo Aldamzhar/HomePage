@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>648720006753-k1j17utmq6tv2hgobadf2a89u9e3gvr2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.648720006753-k1j17utmq6tv2hgobadf2a89u9e3gvr2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBQ3C6kmZcztjZOcpRIwck4fMP26AD8xUM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>648720006753</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.raywenderlich.petmedical</string>
+	<key>PROJECT_ID</key>
+	<string>takeandleave-7da02</string>
+	<key>STORAGE_BUCKET</key>
+	<string>takeandleave-7da02.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:648720006753:ios:70cf8f5f91b0bf87c7b420</string>
+	<key>DATABASE_URL</key>
+	<string>https://takeandleave-7da02.firebaseio.com</string>
+</dict>
+</plist>
